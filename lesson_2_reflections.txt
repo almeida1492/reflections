@@ -4,3 +4,5 @@ How is the staging area different from the working directory and the repository?
 It operates just in the files selected and it doesn’t represent a definitive change in the history.
 How can you use the staging area to make sure you have one commit per logical change?
 By choosing which files I’m gonna include on the commit.
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When I have to make substantial changes in the code and/or want to experiment, it’s a good idea to open a new branch and keep tracking by there. 
