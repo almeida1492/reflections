@@ -8,3 +8,5 @@ What are some situations when branches would be helpful in keeping your history 
 When I have to make substantial changes in the code and/or want to experiment, it’s a good idea to open a new branch and keep tracking by there. 
 How do the diagrams help you visualize the branch structure?
 Showing graphically the disposition of the commits.
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It puts the two branches in just one timeline and under just one label. The representation serves to show which commits were added from the old branch.
