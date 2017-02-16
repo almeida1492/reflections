@@ -10,3 +10,5 @@ How do the diagrams help you visualize the branch structure?
 Showing graphically the disposition of the commits.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 It puts the two branches in just one timeline and under just one label. The representation serves to show which commits were added from the old branch.
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+I have no idea.
